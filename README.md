@@ -33,6 +33,3 @@ This bot scans the market for pairs of stocks that are mathematically linked (Co
     pip install -r requirements.txt
     ```
 3.  Run the notebook `Pairs_Trading_Bot.ipynb` in Jupyter.
-
-## 📜 License
-MIT License
